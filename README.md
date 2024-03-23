@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: Do Duy Anh  
+* Student ID: BI12-034
 * Student Group ID: Not-for-now

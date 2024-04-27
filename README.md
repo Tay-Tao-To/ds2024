@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Do Duy Anh  
 * Student ID: BI12-034
-* Student Group ID: Not-for-now
+* Student Group ID: 04
